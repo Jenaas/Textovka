@@ -33,8 +33,9 @@ else :
     quit()
 
 #zasadni rozhodovani ve hre
-
  
+ 
+
 if lan == "1":
     print("Jdete hledat své ztracené přátele, ale víte , že to v této obrovské budově nebude snadné.")
     time.sleep(2)
